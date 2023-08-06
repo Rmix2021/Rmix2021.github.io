@@ -54,3 +54,13 @@ p
 {
     color: gold;
 }
+  table, tr,th,td
+  {
+border: 2px solid gray;
+text-align: center;
+color: gold;
+flex-grow: inherit;
+  }
+
+
+
